@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BẢO TÀNG VIỆT</string>
+    <string name="text_label_1">museum</string>
+    <string name="text_label_2">search</string>
+    <string name="text_label_3">location</string>
+    <string name="text_label_4">notification</string>
+    <string name="todo">TODO</string>
+    <string name="button1">Giá vé</string>
+    <string name="button2">Bộ sưu tập</string>
+</resources>
